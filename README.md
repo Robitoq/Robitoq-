@@ -7,7 +7,7 @@ Desenvolvo apps para Android.
 <br>
 
 <a href="https://github.com/Robitoq/DRcine">
-  <img src="https://drcine.vercel.app/inicio.jpg" width="220" alt="DRcine">
+
 </a>
 
 ## DR**cine**
